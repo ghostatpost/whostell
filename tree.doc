@@ -1,0 +1,74 @@
+Whostel.
+³   db.sqlite3
+³   manage.py
+³   tree.doc
+³   
+ÃÄÄÄintro
+³   ³   admin.py
+³   ³   apps.py
+³   ³   forms.py
+³   ³   models.py
+³   ³   tests.py
+³   ³   urls.py
+³   ³   views.py
+³   ³   __init__.py
+³   ³   
+³   ÃÄÄÄmigrations
+³   ³   ³   0001_initial.py
+³   ³   ³   0002_auto_20210630_0104.py
+³   ³   ³   0003_auto_20210703_0737.py
+³   ³   ³   __init__.py
+³   ³   ³   
+³   ³   ÀÄÄÄ__pycache__
+³   ³           0001_initial.cpython-38.pyc
+³   ³           0002_auto_20210630_0104.cpython-38.pyc
+³   ³           0003_auto_20210703_0737.cpython-38.pyc
+³   ³           __init__.cpython-38.pyc
+³   ³           
+³   ÃÄÄÄstatic
+³   ³   ³   1.jpg
+³   ³   ³   2.jpg
+³   ³   ³   3.jpg
+³   ³   ³   4.jpg
+³   ³   ³   aboutus.jpeg
+³   ³   ³   login_background.jpg
+³   ³   ³   register_image.jpgSP
+³   ³   ³   team-building.jpg
+³   ³   ³   
+³   ³   ÃÄÄÄcss
+³   ³   ³       
+³   ³   ³       register.css
+³   ³   ³       
+³   ³   ÀÄÄÄjs
+³   
+³   ³           
+³   ÃÄÄÄtemplates
+³   ³       1.html
+³   ³       2.html
+³   ³       index.html
+³   ³       login.html
+³   ³       productdetail.html
+³   ³       register.html
+³   ³       welcome.html
+³   ³       
+³   ÀÄÄÄ__pycache__
+ÃÄÄÄmedia
+³   ÀÄÄÄuploads
+³           2.jpg
+³           3.jpg
+³           5.jpg
+³           6.jpg
+³           adityan-ramkumar-jq0z9B2KN4A-unsplash.jpg
+³           adityan-ramkumar-jq0z9B2KN4A-unsplash_XUfoZX7.jpg
+³           cosmo.jpg
+³           karthik-chandran-4e0PvfHClnI-unsplash.jpg
+³           sr_hostel.JPG
+³           
+ÀÄÄÄwhostel
+    ³   settings.py
+    ³   urls.py
+    ³   wsgi.py
+    ³   __init__.py
+    ³   
+    ÀÄÄÄ__pycache__
+            
